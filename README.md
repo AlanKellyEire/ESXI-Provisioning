@@ -20,7 +20,7 @@ before you use this script.
 
 2.  Make the script executable. e.g `chmod u+rx this-script.sh`.
 
-3.  change directory to the directory of your datastore where the VM is located. `cd /vmfs/volumes/datastore1/VM-TO-THIN`.
+3.  change directory to the directory on your datastore where the VM is located. `cd /vmfs/volumes/datastore1/VM-TO-THIN`.
 
 4.  Run the script and pass the VM name as an argument `./this-script.sh VM-TO-THIN`
 
