@@ -18,11 +18,11 @@ before you use this script.
 
 1.  Download the script and transfer it to the EXSi host using SCP or open a text file on the esxi host and copy the script over.
 
-2.  Make the script executable. e.g `chmod u+rx this-script.sh`.
+2.  Make the script executable. e.g `chmod u+rx esxiThinProvising.sh`.
 
 3.  change directory to the directory on your datastore where the VM is located. `cd /vmfs/volumes/datastore1/VM-TO-THIN`.
 
-4.  Run the script and pass the VM name as an argument `./this-script.sh VM-TO-THIN`
+4.  Run the script and pass the VM name as an argument `./tesxiThinProvising.sh VM-TO-THIN`
 
 5.  Let the script run it may take some time to clone, deregister the VM and rerehister with the thin provisioned VMDK.
 
