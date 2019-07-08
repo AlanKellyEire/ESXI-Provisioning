@@ -1,7 +1,7 @@
 # ESXI-Provisioning
-Script to convert thick Provisioned vmdk on free ESXI to thin vmdk
+Script to convert thick Provisioned VMDK on free ESXI to thin VMDK
 
-This project includes a bash script that converts VMware ESXi thick provisied vmdk to thin provisioned vmdk.
+This project includes a bash script that converts VMware ESXi thick Provisioned VMDK to thin provisioned vmdk.
 
 ## Background on VMware ESXi
 
