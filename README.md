@@ -32,4 +32,4 @@ DISCLAIMER
 
 This submission is supplied without any WARRANTY (EXPRESSED or IMPLIED)
 and is intended in good faith to provide the ESXi community with a
-way to test the chnage the provisioning of an VMDK.
+way to change the provisioning of a thick VMDK to thin.
