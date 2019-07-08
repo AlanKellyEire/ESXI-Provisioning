@@ -22,7 +22,7 @@ before you use this script.
 
 3.  change directory to the directory of your datastore where the VM is located. `cd /vmfs/volumes/datastore1/VM-TO-THIN`.
 
-4.  Run the script and pass the VM name as an argument ./this-script.sh VM-TO-THIN
+4.  Run the script and pass the VM name as an argument `./this-script.sh VM-TO-THIN`
 
 5.  Let the script run it may take some time to clone, deregister the VM and rerehister with the thin provisioned VMDK.
 
